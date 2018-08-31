@@ -1,0 +1,8 @@
+bower_components
+.git
+
+.idea
+
+typings
+*.ts
+!*.d.ts
